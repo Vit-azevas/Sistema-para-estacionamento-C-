@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Fundamentos
-www.dio.me (Sistema para estacionamento em C# -.NET
+www.dio.me (Sistema para estacionamento em C# -.NET)
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
